@@ -1,3 +1,7 @@
+# Notice:
+Do not steal this code, it is mine!
+![DMCA](https://images.dmca.com/Badges/dmca-badge-w150-5x1-01.png)
+
 
 # Delta Client | Android Keyless
 
